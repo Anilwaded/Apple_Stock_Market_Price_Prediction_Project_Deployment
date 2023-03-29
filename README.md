@@ -1,3 +1,3 @@
-#Stock Market Price Prediction Project deployment
-##Application : Streamlit
-###Overview
+# Stock Market Price Prediction Project deployment
+## Application : Streamlit
+### Overview
